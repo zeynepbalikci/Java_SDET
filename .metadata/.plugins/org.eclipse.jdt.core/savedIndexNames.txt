@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/kadirbalikci/Desktop/JAVA13/.metadata/.plugins/org.eclipse.jdt.core
+2170837228.index
+1865797976.index
+1039107371.index
