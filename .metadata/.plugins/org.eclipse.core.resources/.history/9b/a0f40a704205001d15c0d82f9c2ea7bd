@@ -1,0 +1,10 @@
+package Day3_variables_DataTypes;
+
+public class primitiveVariables {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
