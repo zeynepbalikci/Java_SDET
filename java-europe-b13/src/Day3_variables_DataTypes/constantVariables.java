@@ -14,7 +14,16 @@ public class constantVariables {
 		
 		System.out.println(A + "\n" + zeynep + "\n" + l3);
 		
+		int a,b,c;
 		
+		a=10;
+		b=20;
+		c=a;
+		a=b;
+		
+		
+		System.out.println(a);
+		System.out.println(c);
 		
 		
 

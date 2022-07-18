@@ -29,6 +29,9 @@ public class variables {
 				int accountnumber  = 20;
 				
 				System.out.println("My Number is " + accountnumber);
+				System.out.println(Long.MAX_VALUE);
+				
+				
 				
 				//Test case - > check the balances with 100 different account numbers 
 			
