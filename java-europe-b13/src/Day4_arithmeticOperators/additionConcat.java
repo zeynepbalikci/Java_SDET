@@ -17,6 +17,16 @@ public class additionConcat {
 		// String + String = Concatenation
 		System.out.println("hello" + "world");
 		
+		System.out.println(2+0+5+"Cybertek"+4+0+5);
+		System.out.println("Cybertek"+4+0+5);
+		System.out.println(2+0+5+"Cybertek");
+		System.out.println("Cybertek"+(4+0+5));
+		
+		
+		
+		
+		
+		
 		
 		
 

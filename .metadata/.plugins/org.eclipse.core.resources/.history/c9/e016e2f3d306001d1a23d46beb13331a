@@ -1,0 +1,25 @@
+package Day4_arithmeticOperators;
+
+public class arıtmetıcOperators {
+
+	public static void main(String[] args) {
+		
+		System.out.println(55+5);
+		
+		int chairs = 140;
+		
+		System.out.println(chairs+2);
+		System.out.println("chairs");
+		System.out.println("chairs"+2);
+		
+		int morechairs = chairs+4;
+		System.out.println(morechairs);
+		
+		
+	
+				
+			
+
+	}
+
+}
