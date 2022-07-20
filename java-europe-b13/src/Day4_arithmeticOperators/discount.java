@@ -10,7 +10,9 @@ public class discount {
 
 		discount= regularPrice*0.2;
 		salesPrice= regularPrice-discount;
-
+		System.out.println("Regular Price: $" + regularPrice);
+		System.out.println("Sales Price: $" + salesPrice);
+		System.out.println("Discount = $" + discount);
 
 
 		

@@ -9,7 +9,8 @@ public class contribution {
 
         //Calculate display 5% contribution
         contribution=montlyPay*0.05;
-        System.out.println();
+        System.out.println("5 percent is $ "+contribution+" per monht.");
+
 
     }
 }
