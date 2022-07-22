@@ -1,4 +1,4 @@
-package Day7_ifStatement;
+package Day8_controlFlowStatements;
 
 public class day_8 {
   public static void main(String[] args) {
