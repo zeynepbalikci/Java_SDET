@@ -19,7 +19,6 @@ public class forLoopRules {
             System.out.println("Hello");
         }
 
-        //
 
     }
 }
