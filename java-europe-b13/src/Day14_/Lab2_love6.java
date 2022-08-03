@@ -21,7 +21,5 @@ public class Lab2_love6 {
         }
         System.out.println(yes);
 
-
-
     }
 }

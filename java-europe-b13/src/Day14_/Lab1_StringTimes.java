@@ -1,6 +1,6 @@
 package Day14_;
 
-public class Lap1_StringTimes {
+public class Lab1_StringTimes {
     public static void main(String[] args) {
 
         stringTimes("Hi",3);
@@ -14,7 +14,6 @@ public class Lap1_StringTimes {
             b = b + a;
 
         }
-
         System.out.println(b);
 
 
