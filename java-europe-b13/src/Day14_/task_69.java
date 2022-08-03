@@ -2,10 +2,14 @@ package Day14_;
 
 public class task_69 {
   public static void main(String[] args) {
-  //  isPrime(7);
-  //  isPrime(9);
-    System.out.println(isPrime(2));
-    System.out.println(isPrime(7));
+
+    int number = 41;
+    if (isPrime(number)){
+      System.out.println(number + " is a prime number");
+
+    }else {
+      System.out.println(number + " is not a prime number");
+    }
 
   }
   public static boolean isPrime (int number){
