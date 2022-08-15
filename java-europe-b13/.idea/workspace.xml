@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47d91926-dbe8-4af5-bfad-ba49e1e00d3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day15_Methods_Part3/assigment1_SwapValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_Methods_Part3/assigment2_Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day18_readingUserInput/task_74.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day15_Methods_Part3/MethodsOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day15_Methods_Part3/MethodsOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day15_Methods_Part3/task71.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day15_Methods_Part3/task71.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
