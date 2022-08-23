@@ -15,6 +15,9 @@ public class String_IndexOf2 {
 
     int lastDash = list.lastIndexOf("-");
     System.out.println(lastDash);
+    int x = list.lastIndexOf("-",28);
+    System.out.println(x);
+    System.out.println(list.charAt(x));
 
 
 
