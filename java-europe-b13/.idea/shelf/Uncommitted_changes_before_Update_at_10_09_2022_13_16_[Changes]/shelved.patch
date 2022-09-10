@@ -1,0 +1,43 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"47d91926-dbe8-4af5-bfad-ba49e1e00d3f\" name=\"Changes\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/src/Day18_readingUserInput/task_74.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2C8Ky2cR0ailqihKQiFX8vI8Pnk\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"47d91926-dbe8-4af5-bfad-ba49e1e00d3f\" name=\"Changes\" comment=\"\" />\n      <created>1658179022881</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1658179022881</updated>\n    </task>\n    <servers />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision da857664bda9b4f4f81de021643a0b694a083790)
++++ b/.idea/workspace.xml	(date 1662147436799)
+@@ -2,8 +2,7 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="47d91926-dbe8-4af5-bfad-ba49e1e00d3f" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/src/Day18_readingUserInput/task_74.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Day21_stringManipulation_part3/String_Trim.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+Index: src/Day21_stringManipulation_part3/String_Trim.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Day21_stringManipulation_part3/String_Trim.java b/src/Day21_stringManipulation_part3/String_Trim.java
+new file mode 100644
+--- /dev/null	(date 1661971246344)
++++ b/src/Day21_stringManipulation_part3/String_Trim.java	(date 1661971246344)
+@@ -0,0 +1,13 @@
++package Day21_stringManipulation_part3;
++
++public class String_Trim {
++    public static void main(String[] args) {
++
++        String str = "342";
++        String chars = "||";
++        String str2 = chars.substring(0,1).concat(str).concat(chars.substring(1));
++        System.out.println(str2);
++
++        System.out.println("|"+str.trim()+"|");
++    }
++}
