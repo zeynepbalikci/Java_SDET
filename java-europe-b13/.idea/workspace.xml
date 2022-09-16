@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47d91926-dbe8-4af5-bfad-ba49e1e00d3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day21_stringManipulation_part3/String_Trim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day25_arrays_part2/ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day25_arrays_part2/PassArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day25_arrays_part2/PassElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day25_arrays_part2/PayArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day25_arrays_part2/ReturnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day25_arrays_part2/SameArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day25_arrays_part2/Task_91.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day25_arrays_part2/Task_92.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/java-europe-b13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java-europe-b13.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="47d91926-dbe8-4af5-bfad-ba49e1e00d3f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,13 +34,13 @@
     <property name="project.structure.proportion" value="0.18457031" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ReturnArray">
-    <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day25_arrays_part2.ForEachLoop" />
+  <component name="RunManager" selected="Application.MethodArray">
+    <configuration name="MethodArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day26_arrays_part3.MethodArray" />
       <module name="java-europe-b13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day25_arrays_part2.*" />
+          <option name="PATTERN" value="Day26_arrays_part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodArray" />
         <item itemvalue="Application.ReturnArray" />
         <item itemvalue="Application.PassArray" />
         <item itemvalue="Application.PassElements" />
         <item itemvalue="Application.SameArray" />
-        <item itemvalue="Application.ForEachLoop" />
       </list>
     </recent_temporary>
   </component>

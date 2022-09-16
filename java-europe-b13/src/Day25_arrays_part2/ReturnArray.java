@@ -3,9 +3,9 @@ package Day25_arrays_part2;
 public class ReturnArray {
     public static void main(String[] args) {
 
-        double[] values;
+        double[] values = getArray();
 
-        values = getArray();
+       // values = getArray();
 
         for (double num : values){
 
